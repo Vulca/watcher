@@ -1,5 +1,6 @@
 {
     "require": {
-        "fabpot/goutte": "^3.2"
+        "fabpot/goutte": "^3.2",
+        "voku/html2text": "^5"
     }
 }
